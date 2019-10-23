@@ -2,7 +2,7 @@
 
 Portable (Windows) performance profiler for deep neural network. Give you the performance guideline of the model running on different openDLA architectures.
 
-The **openDLA** is based on the open project [NVDLA](http://nvdla.org/index.html).
+The **openDLA** is based on the open project [**NVDLA**](http://nvdla.org/index.html).
 
 This tool is developed based on [**netron**](https://github.com/lutzroeder/netron).
 
