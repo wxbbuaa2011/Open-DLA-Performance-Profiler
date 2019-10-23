@@ -7,7 +7,7 @@ The **openDLA** is based on [NVDLA](http://nvdla.org/index.html).
 This tool is developed based on [**netron**](https://github.com/lutzroeder/netron).
 
 ## Key Words
-- Summary Table : list the performance 
+- Summary Table :  
   - MAC Utilization: average MAC utilization under aggressive FPS
   - Roofline Factor: the ratio of memory access cycles / total cycles
   - Conservative FPS: consider the memory access and computation is fully overlapped 
