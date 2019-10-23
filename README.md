@@ -1,6 +1,6 @@
 ## Open-DLA-Performance-Profiler
 
-Performance profiling for neural network, deep learning and machine learning models on different openDLA architectures
+Portable (Windows) performance profiler for deep neural network. Give you the performance guideline of the model running on different openDLA architectures.
 
 The **openDLA** is based on the open project [NVDLA](http://nvdla.org/index.html).
 
