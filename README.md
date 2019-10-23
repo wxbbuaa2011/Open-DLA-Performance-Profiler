@@ -14,11 +14,11 @@ This tool is developed based on [**netron**](https://github.com/lutzroeder/netro
   - Aggressive FPS: consider the memory access and computation is fully interleaved
 
 - Traffic Table : List of the memory traffic of each layer
-  - IFM	: input feature maps
-  - OFM	: output feature maps
-  - WM : weights
+  - IFM	: input feature map
+  - OFM	: output feature map
+  - WM : weight matrix
 
-- Detail Table : List of the fused layers based on OpenDLA
+- Detail Table : List of the fused layers based on openDLA
   - type	:  computation type
   - attributes	: 	fused layers
   - ch_in	: input channel number
