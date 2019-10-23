@@ -6,7 +6,7 @@ The **openDLA** is based on [NVDLA](http://nvdla.org/index.html).
 
 This tool is developed based on [**netron**](https://github.com/lutzroeder/netron).
 
-### Explainations
+## Key Words
 - Summary Table : list the performance 
   - MAC Utilization: average MAC utilization under aggressive FPS
   - Roofline Factor: the ratio of memory access cycles / total cycles
@@ -18,6 +18,20 @@ This tool is developed based on [**netron**](https://github.com/lutzroeder/netro
   - OFM	: output feature maps
   - WM : weights
 
+- Detail Table :
+  - type	:  computation type
+  - attributes	: 	fused layers
+  - ch_in	: input channel number
+  - dim_in	: 	input dimension
+  - ch_out	: 	output channel number
+  - kernel_w	: 	kernel width
+  - kernel_h	: 	kernel height
+  - pad_w	: padding size of width direction
+  - pad_h	: padding size of height direction
+  - stride_w	:  stride size of width direction
+  - stride_h	:  stride size of height direction
+  
+  
 ---------------------------------
 
 ### Deferences between the free version here and commercial version
